@@ -1,6 +1,6 @@
 import numpy as np
 
-scores = np.array([89, 72, 48, 77, 92])
+scores = np.array([89, 72, 48, 77, 92, 100])
 
 print(f'Your scores are: {scores}')
 print(f'Your sum of the scores is: {np.sum(scores)}')
