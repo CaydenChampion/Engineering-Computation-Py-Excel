@@ -16,7 +16,7 @@ import numpy as np
 # print(f"Has roots {my_roots}\n")
 
 # Higher-order polynomial
-coef = [4,8,2,0,9,-10]
+coef = [6,8,2,0,9,-10]
 my_roots = np.roots(coef)
 print(f"\nA polynomial with coefficients of {coef}")
 print(f"Has roots")
